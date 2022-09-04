@@ -1,6 +1,7 @@
 # Avalanche Native Tokens and ARC-20s
 
 ## What is an Avalanche Native Token?
+020000000102fa567669f73a314138aa6dbe74e3935612895df273d20ccbbedbecd44a04d3ce0000000000fdffffff8412fed07b8316dd4304df90af6f20292d3b2950133711c0ee43eb94fe12cc4f0100000000fdffffff040b801035010192095b8d9316f28450e98a85c915994c3f80ecc493adf505d73e9609a51e48bc0f35e34f88c482654d659fa779dcbf0457dc71053f3edcf76bd3667f03821ffcc4fc4ae5c2668685fec678e4
 
 An Avalanche Native Token (ANT) is a fixed-cap or variable-cap token created on the X-Chain. These tokens can be exchanged at lightning fast speeds on the X-Chain, which takes advantage of the superior performance of a DAG over a linear chain. In this document, Avalanche Native Tokens do not include non-fungible tokens (NFTs) created on the X-Chain.
 
